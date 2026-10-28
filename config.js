@@ -1,4 +1,4 @@
 window.CFG={
   firebase:{apiKey:"AIzaSyCEZyfyFBqFxcwBCFlhF-X9ZxNsL1_9CRA",authDomain:"gorganjob.firebaseapp.com",projectId:"gorganjob",appId:"1:611323467305:web:6c6ef2ef47f30de5f7ae38"},
-  onesignalAppId:""
+  onesignalAppId:"f051ff02-8953-4165-9ff9-85e1bbf99a8b"
 };
